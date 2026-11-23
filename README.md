@@ -64,8 +64,10 @@ cluster_centers_ are learned centroids.
 ---
 ## OUTPUT
 
+<img width="546" height="435" alt="image" src="https://github.com/user-attachments/assets/7d24a643-b1f4-4dee-864b-200255f39a01" />
+
 ```text
-Scatter plot showing two clusters; Inertia (WCSS): 180.342 (value varies).
+ Inertia (WCSS): 180.342 (value varies).
 ```
 
 ---
