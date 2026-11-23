@@ -78,6 +78,3 @@ initialization & scaling.
 
 ---
 
-## THEORY
-
-KMeans minimizes within-cluster variance; relates to vector quantization.
